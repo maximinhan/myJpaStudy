@@ -3,5 +3,6 @@ CREATE TABLE MEMBER (
     NAME VARCHAR(255),        --이름
     AGE INTEGER NOT NULL,     --나이
     PRIMARY KEY (ID)
-)
+);
 
+show TABLES ;
