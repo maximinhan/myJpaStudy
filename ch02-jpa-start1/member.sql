@@ -6,3 +6,5 @@ CREATE TABLE MEMBER (
 );
 
 show TABLES ;
+
+ab;
